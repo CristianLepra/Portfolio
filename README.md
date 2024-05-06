@@ -1,35 +1,43 @@
-# Portafolio de Proyectos de Data Science
 
-¡Bienvenido a mi portafolio de proyectos de Data Science! Aquí encontrarás una colección de mis proyectos más destacados, donde aplico técnicas de análisis de datos, machine learning y visualización para resolver problemas del mundo real.
 
-## Acerca de mí
+# Proyecto Carrifour: Análisis de Carritos de Compra Abandonados 🛒🔍
 
-¡Hola! Soy Cristian Lepra, un entusiasta de la ciencia de datos con experiencia en analisis de datos y ciencia de datos. Me apasiona explorar datos, encontrar patrones significativos y desarrollar soluciones inteligentes para problemas complejos.
+![Red Modern Market Logo (1)](https://github.com/No-Country/s14-25-t-data-bi/assets/138166529/d9198988-8ff9-4edc-8448-b3a73d94f259)
 
-## Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1](enlace_al_proyecto_1)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+Este proyecto tiene como objetivo analizar los carritos de compra abandonados en Carrifour y mejorar la retención de clientes mediante recomendaciones de productos personalizadas. Utiliza un dashboard interactivo para visualizar datos y tomar decisiones informadas.
 
-### 2. [Nombre del Proyecto 2](enlace_al_proyecto_2)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+## Contexto
+En el mundo del comercio electrónico, la retención de clientes es esencial para el éxito a largo plazo. En Carrifour, estamos comprometidos con la creación de una experiencia de compra en línea excepcional, donde cada interacción cuenta y cada cliente se sienta valorado.
 
-### 3. [Nombre del Proyecto 3](enlace_al_proyecto_3)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+## Objetivo del Proyecto
+Nuestro proyecto se centra en el análisis de los carritos de compra abandonados y la implementación de recomendaciones de productos personalizadas. Estamos decididos a reducir la pérdida de clientes y mejorar la experiencia general de compra en Carrifour.
 
-## Contacto
+## KPIs Clave
+- **Reducción del Churn**: Nuestro objetivo es reducir anualmente la tasa de pérdida de clientes en un 10%. En el año 2022, superamos esta meta con una reducción del 11.11%, demostrando nuestro compromiso con la satisfacción del cliente.
+- **Optimización de Precios**: Buscamos reducir los precios de los productos en un 5% anualmente. En los años 2021 y 2023, alcanzamos con éxito esta meta, aunque identificamos la electrónica como una categoría de productos que requiere un enfoque específico para alcanzar el objetivo anual.
 
-Si estás interesado en colaborar, tienes preguntas o simplemente quieres conectarte, no dudes en ponerte en contacto conmigo:
-- Correo Electrónico: cristianleprab@gmail.com
-- LinkedIn: www.linkedin.com/in/cristianlepra
+[![Ver Aplicación](https://img.shields.io/badge/Ver%20Aplicaci%C3%B3n-Visitar-brightgreen?style=for-the-badge)](https://carrifour.mydurable.com/es?pt=NjYyN2ZhYzQ1ZmY3ODk4ODFjOTI3YjM1OjE3MTQwMjU5NzQuMTc6cHJldmlldw==)
 
-¡Gracias por visitar mi portafolio!
+## Ejecución del Proyecto 🚀
+1. Clona este repositorio:
+   ```
+   git clone https://github.com/No-Country/s14-25-t-data-bi.git
+   ```
+2. Instala las dependencias:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Ejecuta el dashboard:
+   ```
+   ## Acceso al Dashboard en Power BI
+
+Puedes acceder al dashboard de análisis de carrito abandonado en Power BI haciendo clic en el botón a continuación:
+
+[![Dashboard Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?style=for-the-badge&logo=power-bi&logoColor=white)](s14-25-t-data-bi/Dashboard/ANALISIS%20DE%20CARRITO%20ABANDONADO.pbix)
+
+
+## Arquitectura del Proyecto
+
+![Imagen de WhatsApp 2024-04-25 a las 13 35 38_23646e87](https://github.com/No-Country/s14-25-t-data-bi/assets/138166529/29a0d154-4206-4199-bf75-e111601680f6)
+
